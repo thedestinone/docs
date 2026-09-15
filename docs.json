@@ -18,21 +18,21 @@
     "socials": {
       "instagram": "https://instagram.com/"
     }
-  },
-   "styles": ["/style.css"],
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Get Started",
-}
-      {
-        "tab": "Get Started",
-        "icon": "rocket",
-        "pages": [
-          "index",
-          "quickstart",
-          "about"
-        ]
+  }, 
+  "styles": ["/style.css"],
+"navigation": {
+  "tabs": [
+    {
+      "tab": "Get Started",
+      "icon": "rocket",
+      "pages": [
+        "index",
+        "quickstart",
+        "about"
+      ]
+    },
+    {
+      "tab": "Coverage",
       },
       {
         "tab": "Coverage",
