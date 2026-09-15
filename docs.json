@@ -19,11 +19,12 @@
       "instagram": "https://instagram.com/"
     }
   },
+  {
   "styling": {
-    "eyebrows": "breadcrumbs"
+    "codeblocks": "system"
   },
-  "navigation": {
-    "tabs": [
+  "styles": ["/style.css"]
+}
       {
         "tab": "Get Started",
         "icon": "rocket",
