@@ -31,8 +31,7 @@
       {
         "tab": "Coverage",
         "pages": [
-          "coverage/overview",
-          "coverage/game-day-workflow"
+          "coverage/overview"
         ]
       },
       {
@@ -44,16 +43,16 @@
         ]
       },
       {
+        "tab": "About",
+        "pages": [
+          "about"
+        ]
+      },
+      {
         "tab": "Contact & FAQ",
         "pages": [
           "contact",
           "faq"
-        ]
-      },
-      {
-        "tab": "About",
-        "pages": [
-          "about"
         ]
       }
     ]
