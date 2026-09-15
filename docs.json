@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "aspen",
   "name": "North Texas Sports Media",
   "colors": {
@@ -7,23 +6,26 @@
     "light": "#f4f4f1",
     "dark": "#0b0b0d"
   },
+  "logo": {
+    "light": "/images/north-texas-sports-media-light.png",
+    "dark": "/images/north-texas-sports-media-dark.png"
+  },
   "favicon": {
     "light": "/images/north-texas-sports-media-light.png",
     "dark": "/images/north-texas-sports-media-dark.png"
   },
+  "footer": {
+    "socials": {
+      "instagram": "https://instagram.com/"
+    }
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
+  },
   "navigation": {
-    "pages": [
+    "tabs": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ],
-    "groups": [
-      {
-        "group": "Get Started",
+        "tab": "Get Started",
         "icon": "rocket",
         "pages": [
           "index",
@@ -32,7 +34,7 @@
         ]
       },
       {
-        "group": "Coverage",
+        "tab": "Coverage",
         "icon": "camera",
         "pages": [
           "coverage/overview",
@@ -40,7 +42,7 @@
         ]
       },
       {
-        "group": "Photos & Galleries",
+        "tab": "Photos & Galleries",
         "icon": "images",
         "pages": [
           "photos/galleries",
@@ -49,7 +51,7 @@
         ]
       },
       {
-        "group": "Contact & FAQ",
+        "tab": "Contact & FAQ",
         "icon": "circle-question",
         "pages": [
           "contact",
@@ -57,18 +59,5 @@
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/images/north-texas-sports-media-light.png",
-    "dark": "/images/north-texas-sports-media-dark.png"
-  },
-  "footer": {
-    "socials": {
-      "instagram": "https://instagram.com/"
-    }
- {
-  "styling": {
-    "codeblocks": "system"
-  },
-  "styles": ["style.css"]
+  }
 }
