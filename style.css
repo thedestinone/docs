@@ -1,23 +1,5 @@
-#navbar {
-  background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("/images/banner.png")!important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-}
-#sidebar {
-  width: 220px !important;
-}
-
 /* Remove gaps between images in gallery columns */
 .gallery-tight columns,
 .gallery-tight .grid {
   gap: 0 !important;
-}
-.gallery-tight img {
-  margin: 0 !important;
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  aspect-ratio: 3 / 2;
 }
