@@ -25,9 +25,7 @@
     {
       "tab": "Get Started",
       "pages": [
-        "index",
-        "quickstart",
-        "about"
+        "index"
       ]
     },
       {
@@ -51,7 +49,16 @@
           "contact",
           "faq"
         ]
+      },
+      {
+        "tab": "About",
+        "pages": [
+          "about"
+        ]
       }
     ]
+  },
+  "fonts": {
+    "family": "Inter"
   }
 }
