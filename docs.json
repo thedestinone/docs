@@ -66,8 +66,9 @@
     "socials": {
       "instagram": "https://instagram.com/"
     }
-  },
+ {
   "styling": {
-    "eyebrows": "breadcrumbs"
-  }
+    "codeblocks": "system"
+  },
+  "styles": ["/style.css"]
 }
