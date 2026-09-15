@@ -1,0 +1,73 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "aspen",
+  "name": "North Texas Sports Media",
+  "colors": {
+    "primary": "#0b0b0d",
+    "light": "#f4f4f1",
+    "dark": "#0b0b0d"
+  },
+  "favicon": {
+    "light": "/images/north-texas-sports-media-light.png",
+    "dark": "/images/north-texas-sports-media-dark.png"
+  },
+  "navigation": {
+    "pages": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      }
+    ],
+    "groups": [
+      {
+        "group": "Get Started",
+        "icon": "rocket",
+        "pages": [
+          "index",
+          "quickstart",
+          "about"
+        ]
+      },
+      {
+        "group": "Coverage",
+        "icon": "camera",
+        "pages": [
+          "coverage/overview",
+          "coverage/game-day-workflow"
+        ]
+      },
+      {
+        "group": "Photos & Galleries",
+        "icon": "images",
+        "pages": [
+          "photos/galleries",
+          "photos/using-photos",
+          "photos/photo-requests"
+        ]
+      },
+      {
+        "group": "Contact & FAQ",
+        "icon": "circle-question",
+        "pages": [
+          "contact",
+          "faq"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/images/north-texas-sports-media-light.png",
+    "dark": "/images/north-texas-sports-media-dark.png"
+  },
+  "footer": {
+    "socials": {
+      "instagram": "https://instagram.com/"
+    }
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
+  }
+}
