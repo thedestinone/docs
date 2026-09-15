@@ -32,7 +32,6 @@
     },
       {
         "tab": "Coverage",
-        "icon": "camera",
         "pages": [
           "coverage/overview",
           "coverage/game-day-workflow"
