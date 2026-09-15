@@ -24,7 +24,6 @@
   "tabs": [
     {
       "tab": "Get Started",
-      "icon": "rocket",
       "pages": [
         "index",
         "quickstart",
@@ -41,7 +40,6 @@
       },
       {
         "tab": "Photos & Galleries",
-        "icon": "images",
         "pages": [
           "photos/galleries",
           "photos/using-photos",
@@ -50,7 +48,6 @@
       },
       {
         "tab": "Contact & FAQ",
-        "icon": "circle-question",
         "pages": [
           "contact",
           "faq"
