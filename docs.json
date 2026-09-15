@@ -70,5 +70,5 @@
   "styling": {
     "codeblocks": "system"
   },
-  "styles": ["/style.css"]
+  "styles": ["style.css"]
 }
