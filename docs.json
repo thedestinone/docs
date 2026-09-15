@@ -6,10 +6,6 @@
     "light": "#f4f4f1",
     "dark": "#0b0b0d"
   },
-  "logo": {
-    "light": "/images/north-texas-sports-media-light.png",
-    "dark": "/images/north-texas-sports-media-dark.png"
-  },
   "favicon": {
     "light": "/images/north-texas-sports-media-light.png",
     "dark": "/images/north-texas-sports-media-dark.png"
