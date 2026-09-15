@@ -7,3 +7,14 @@
 #sidebar {
   width: 220px !important;
 }
+
+/* Remove gaps between images in gallery columns */
+.gallery-tight columns,
+.gallery-tight .grid {
+  gap: 0 !important;
+}
+.gallery-tight img {
+  margin: 0 !important;
+  display: block;
+  width: 100%;
+}
